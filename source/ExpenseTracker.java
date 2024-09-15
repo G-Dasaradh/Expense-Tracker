@@ -121,8 +121,6 @@ public class ExpenseTracker implements Runnable
             {
                 System.out.println("Exception while dding entry");
             }
-            
-
         }
     }
 
